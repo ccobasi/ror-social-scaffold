@@ -1,0 +1,21 @@
+<%= form_with(model: friendship, local: true) do |form| %>
+  <%= form_error(@form) %>
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.text_field :user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :friendship_id %>
+    <%= form.text_field :friendship_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :status %>
+    <%= form.text_field :status %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
