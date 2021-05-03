@@ -10,7 +10,7 @@ friendship model by adding another instance of friendship model.
 
 ## Live Demo
 
-TBA
+# LIVE APP: - [ROR-SOCIAL-SCAFFOLD](https://ror-scaffold.herokuapp.com/)
 
 
 ## Getting Started
@@ -66,9 +66,6 @@ Open `http://localhost:3000/` in your browser.
 
 > Tests will be added by Microverse students. There are no tests for initial features in order to make sure that students write all tests from scratch.
 
-### Deployment
-
-TBA
 
 ## Author
 
@@ -90,9 +87,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-TBA
+- Microverse Team
 
 ## 📝 License
 
-TBA
+This project is MIT licensed.
 
