@@ -10,7 +10,7 @@ friendship model by adding another instance of friendship model.
 
 ## Live Demo
 
-TBA
+# LIVE APP: - [ROR-SOCIAL-SCAFFOLD](https://ror-scaffold.herokuapp.com/)
 
 
 ## Getting Started
